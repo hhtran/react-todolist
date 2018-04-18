@@ -7,7 +7,7 @@ class TodoList extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      items: ["hello world", "awfwfa", "weawf"],
+      items: ["Meet with Melissa", "Meet with John", "Meet with Kateline"],
       fieldBuffer: "",
       clearedItems: []
     };
